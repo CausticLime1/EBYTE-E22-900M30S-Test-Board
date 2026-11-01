@@ -19310,8 +19310,8 @@
 		(uuid "13519917-2a44-4088-a5d9-e400ff37c5ea")
 	)
 	(rectangle
-		(start -207.01 215.9)
-		(end -87.63 283.21)
+		(start 17.78 180.34)
+		(end 137.16 247.65)
 		(stroke
 			(width 0.254)
 			(type solid)
@@ -19335,7 +19335,7 @@
 	)
 	(text "LoRa E22-900M30S"
 		(exclude_from_sim no)
-		(at -207.01 215.9 0)
+		(at 17.78 180.34 0)
 		(effects
 			(font
 				(size 3.175 3.175)
@@ -22876,7 +22876,7 @@
 	)
 	(symbol
 		(lib_id "Custom-Parts-Library:E22-900M30S")
-		(at -148.59 248.92 0)
+		(at 76.2 213.36 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22887,7 +22887,7 @@
 		(fields_autoplaced yes)
 		(uuid "b06a7829-54b4-4fd5-97a9-5900321d792e")
 		(property "Reference" "U1"
-			(at -148.59 218.44 0)
+			(at 76.2 182.88 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22897,7 +22897,7 @@
 			)
 		)
 		(property "Value" ""
-			(at -148.59 248.92 0)
+			(at 76.2 213.36 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22907,7 +22907,7 @@
 			)
 		)
 		(property "Footprint" "Custom-Parts-Library:E22-900M30S"
-			(at -148.59 248.92 0)
+			(at 76.2 213.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22918,7 +22918,7 @@
 			)
 		)
 		(property "Datasheet" "kicad-embed://E22-900M30S_Usermanual_EN_v1.5 (1).pdf"
-			(at -148.59 248.92 0)
+			(at 76.2 213.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22929,7 +22929,7 @@
 			)
 		)
 		(property "Description" "868/915MHz 1W SPI LoRa Module"
-			(at -148.59 248.92 0)
+			(at 76.2 213.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
